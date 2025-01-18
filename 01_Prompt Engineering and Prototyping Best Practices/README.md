@@ -36,20 +36,20 @@ Each assignment will have a few of the following categories of exercises:
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested: The model’s ability to simplify complex technical concepts and explain them in beginner-friendly language.
-    ![Logo](screenshots/Q1.png)
+    - Aspect Tested: The model’s ability to simplify complex technical concepts and explain them in beginner-friendly language.  
+    ![Logo](screenshots/Q1.PNG)  
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:The model’s ability to comprehend and summarize text concisely, focusing on key points without losing meaning.
-    ![Logo](screenshots/Q2.png)
+    - Aspect Tested:The model’s ability to comprehend and summarize text concisely, focusing on key points without losing meaning.  
+    ![Logo](screenshots/Q2.PNG)  
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested: The model’s creativity, coherence, and ability to generate engaging and imaginative content while adhering to word count limits.
-    ![Logo](screenshots/Q3.png)
+    - Aspect Tested: The model’s creativity, coherence, and ability to generate engaging and imaginative content while adhering to word count limits.  
+    ![Logo](screenshots/Q3.PNG)  
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested: The model’s logical reasoning and problem-solving capabilities, particularly in handling simple mathematical problems.
-    ![Logo](screenshots/Q4.png)
+    - Aspect Tested: The model’s logical reasoning and problem-solving capabilities, particularly in handling simple mathematical problems.  
+    ![Logo](screenshots/Q4.PNG)  
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:The model’s ability to adjust the tone and style of writing to meet professional and formal communication standards.
-    ![Logo](screenshots/Q5.png)
+    - Aspect Tested:The model’s ability to adjust the tone and style of writing to meet professional and formal communication standards.  
+    ![Logo](screenshots/Q5.PNG)  
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
@@ -61,8 +61,8 @@ Please make adjustments to your application that you believe will improve the vi
 
 At first, asking the model the same question resulted in almost the same story every time. After increasing the temperature, now,  the model has more freedom and imagination. 
 
-![Logo](screenshots/Q3 (After changes).png)
-![Logo](screenshots/Q3 (After changes) 2.png)
+![Logo](screenshots/Q3_after_changes.PNG)  
+![Logo](screenshots/Q3_after_changes_2.PNG)  
 
 ### A Note on Vibe Checking
 
@@ -74,8 +74,8 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 
 What are some limitations of vibe checking as an evaluation tool?
 
-Vibe checking, while useful for a quick and informal assessment, has several limitations as an evaluation tool:
-1 - Subjectivity: It relies heavily on subjective judgment rather than objective metrics or standards. Different individuals may interpret the "vibe" differently, leading to inconsistent evaluations.
-2 - Limited Scope: Vibe checks often focus on surface-level functionality and basic usability. They may miss deeper issues or bugs that only manifest under specific conditions or with extensive use.
-3 - Risk of Overlooking Critical Issues: Vibe checks may prioritize superficial aspects over critical functionality or security vulnerabilities, potentially overlooking significant issues.
-4 - Inability to Measure Performance: They do not provide quantitative measures of performance, such as response time, accuracy rates, or scalability, which are crucial for assessing system reliability and efficiency.
+Vibe checking, while useful for a quick and informal assessment, has several limitations as an evaluation tool:  
+1 - Subjectivity: It relies heavily on subjective judgment rather than objective metrics or standards. Different individuals may interpret the "vibe" differently, leading to inconsistent evaluations.  
+2 - Limited Scope: Vibe checks often focus on surface-level functionality and basic usability. They may miss deeper issues or bugs that only manifest under specific conditions or with extensive use.  
+3 - Risk of Overlooking Critical Issues: Vibe checks may prioritize superficial aspects over critical functionality or security vulnerabilities, potentially overlooking significant issues.  
+4 - Inability to Measure Performance: They do not provide quantitative measures of performance, such as response time, accuracy rates, or scalability, which are crucial for assessing system reliability and efficiency.  
